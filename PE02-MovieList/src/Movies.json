@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Ironman",
+        "genre": "Fantasy",
+        "release_year": "2008"
+    },
+    {
+        "title": "Harry potter and the Sorcerer’s Stone",
+        "genre": "Fantasy",
+        "release_year": "2001"
+    },
+    {
+        "title": "Interstellar",
+        "genre": "Sci-Fi",
+        "release_year": "2014"
+    },
+    {
+        "title": "Coco",
+        "genre": "Animated",
+        "release_year": "2017"
+    },
+    {
+        "title": "Enchant",
+        "genre": "Animated",
+        "release_year": "2021"
+    },
+    {
+        "title": "The Notebook",
+        "genre": "Rom-com",
+        "release_year": "2004"
+    }
+]
